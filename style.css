@@ -29,11 +29,11 @@
 		font-size: 20px;
 		color: red;
 		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		border-style: dotted;
 	}
 
 	.menu a{
 		text-decoration: none;
-		border-style: dotted;
 	}
 
 	.menu li{
