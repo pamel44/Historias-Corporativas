@@ -40,6 +40,10 @@
 		list-style-type: none;
 	}
 
-	.imgindex {}
+	.imgindex {
+		width: 300px;
+	}
+
+	
 
 	#principal {}
