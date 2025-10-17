@@ -33,6 +33,7 @@
 
 	.menu a{
 		text-decoration: none;
+		border-style: dotted;
 	}
 
 	.menu li{
