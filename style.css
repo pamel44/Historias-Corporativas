@@ -30,11 +30,12 @@
 		color: red;
 		font-family: Verdana, Geneva, Tahoma, sans-serif;
 	}
-	a{
+
+	.menu a{
 		text-decoration: none;
 	}
 
-	li{
+	.menu li{
 		list-style-type: none;
 	}
 
