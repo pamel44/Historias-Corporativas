@@ -21,6 +21,8 @@
 		width: 500px;
 		height: 500px;
 		border-radius: 5px;
+		display: auto;
+		margin: 0px;
 	}
 
 	.menu{
